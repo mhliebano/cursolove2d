@@ -12,4 +12,9 @@ https://www.youtube.com/watch?v=H1Y9RZM1hys
 - Capítulo 2:
 https://www.youtube.com/watch?v=H1Y9RZM1hys
 
-[Dibujo de Primitivas, Colores](capitulo12)
+[Dibujo de Primitivas, Colores](capitulo/2)
+
+- Capítulo 3:
+https://www.youtube.com/watch?v=12nlX21IZ48
+
+[Interacciones Teclado y Mouse](capitulo/3)
