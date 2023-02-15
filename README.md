@@ -23,3 +23,19 @@ https://www.youtube.com/watch?v=12nlX21IZ48
 https://www.youtube.com/watch?v=JyPGv814FrI
 
 [Juego basico](capitulo4/)
+
+- Capítulo 5:
+https://www.youtube.com/watch?v=0-98algBLRM
+
+[Fuentes](capitulo5/)
+
+- Capítulo 6:
+https://www.youtube.com/watch?v=8GdSrdEMJlo
+
+[Imagenes](capitulo6/)
+
+- Capítulo 7:
+https://www.youtube.com/watch?v=efKxhyMlH0Q
+
+[Quads](capitulo7/)
+
