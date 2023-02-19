@@ -39,3 +39,8 @@ https://www.youtube.com/watch?v=efKxhyMlH0Q
 
 [Quads](capitulo7/)
 
+- Capítulo 8:
+https://www.youtube.com/watch?v=ZBvQB5-otO0
+
+[Sonidos](capitulo8/)
+
